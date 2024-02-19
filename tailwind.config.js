@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      myfont: ["EB Garamond", "serif"],
+      'myfont': ["EB Garamond", "serif"],
     },
   },
   plugins: [],
